@@ -1,0 +1,14 @@
+database:
+  driver: "postgres"
+  # host: "10.1.200.128"
+  # port: 5401
+  # user: "tradefoox"
+  # password: "test1234"
+  host: "127.0.0.1"
+  port: 5432
+  user: "postgres"
+  password: "postgres"
+  database: "bkfm"
+demo: false
+domain: "bkfm.local"
+secret: "dacc5455e69ae4b48929663ff2aa8633e474d95cfd38bff03ceb1921b25b547b"
